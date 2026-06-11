@@ -78,5 +78,8 @@ python rag.py
 - What is DCF valuation?
 - What is the role of SEBI in Indian securities market?
 EOF
+<img width="2876" height="1316" alt="image" src="https://github.com/user-attachments/assets/e0e8d75f-4d33-4701-b175-fe653566a88e" />
+<img width="2876" height="1316" alt="image" src="https://github.com/user-attachments/assets/18a0fdc8-d40a-4d48-9412-74e647b93240" />
+
 
 
